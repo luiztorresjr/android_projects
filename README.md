@@ -1,2 +1,2 @@
-# android_projects
-Esse local é onde estão projetos de android em dev
+# ProjetoAndroid
+# O projeto de PDM será um app para armazenar os livros e saber o status da leitura e o quantas páginas tem o livro e quantas faltam.

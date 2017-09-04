@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula0219</string>
+    <string name="numero1">Número Um</string>
+    <string name="numero2">Número Dois</string>
+    <string name="somar">Somar</string>
+    <string name="resultado">Resultado</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="Subtrair">Subtrair</string>
+</resources>

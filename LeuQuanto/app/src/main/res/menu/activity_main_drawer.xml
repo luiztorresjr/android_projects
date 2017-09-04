@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_listarLivro"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Listar Livros" />
+        <item
+            android:id="@+id/nav_addLivro"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Adicionar Livros" />
+        <item
+            android:id="@+id/nav_atualizarLivro"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Atualizar Livro" />
+        <!--
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />
+        -->
+
+    </group>
+</menu>
